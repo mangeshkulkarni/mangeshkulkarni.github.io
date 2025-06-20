@@ -50,7 +50,7 @@ Visionary automotive leader with over 24 years of experience driving AI-powered 
 
 ## WORK EXPERIENCE  
 
-**Senior Solution Architect (ADAS/Autonomous Driving), Valeo Vision Systems, Ireland**  
+**Senior Solution Architect (ADAS/Autonomous Driving), Valeo Vision Systems, Ireland (www.valeo.com)**  
 _Aug 2023 – Present_  
 **Key Responsibilities**  
 - Architect L2+ ADAS solutions for visualization, parking, and driving functions, collaborating with global R&D and sales teams to align with OEM roadmaps.  
@@ -61,12 +61,13 @@ _Aug 2023 – Present_
 - **Defined strategies for solutions proposals**, achieving maximum synergies among multiple programs, reducing NRE costs, and increasing profit margins.  
 - **Developed customer-centric KPI dashboards**, ensuring 100% alignment with OEM milestones and RFQs.  
 - **Enhanced L4 autonomy system performance by 10%** through technical evaluations and supplier collaboration.  
+
 **Business Outcomes**  
 - Secured 3 major OEM contracts for 2028+ SOPs with Geely, BMW, and GM for ADAS+IVI Central Compute and L2+/L2++ Domain Controllers, expanding Valeo’s market share by 15%.  
 - **Increased profit margins by 12%** through strategic solution proposals, optimizing NRE costs across programs.  
 - Boosted EMEA bid win rate by 20% through optimized system designs and compelling sales strategies.  
 
-**Global Automotive Head & Program Manager, Taoglas IoT Solutions, Ireland**  
+**Global Automotive Head & Program Manager, Taoglas IoT Solutions, Ireland (www.taoglas.com)**  
 _Feb 2022 – Jun 2023_  
 **Key Responsibilities**  
 - Spearheaded strategic roadmap for connected vehicle solutions, driving technical sales and customer acquisition in North American markets.  
@@ -76,11 +77,12 @@ _Feb 2022 – Jun 2023_
 - **Delivered $10M L4 TCU platform**, achieving 100% on-time milestones for North American OEMs.  
 - **Optimized BOM costs by 10%** through strategic supplier negotiations.  
 - **Improved process efficiency by 20%** via KPI dashboards and QMS framework.  
+
 **Business Outcomes**  
 - Enabled Taoglas to enter North American L4 shuttle market, generating $15M in projected revenue.  
 - Reduced procurement costs by 12% through strengthened supplier partnerships, enhancing profitability.  
 
-**R&D Customer Technical Program Manager, Valeo Vision Systems, Ireland**  
+**R&D Customer Technical Program Manager, Valeo Vision Systems, Ireland (www.valeo.com)**  
 _Apr 2018 – Jan 2022_  
 **Key Responsibilities**  
 - Managed $3M R&D budget for ADAS programs, coordinating cross-functional teams to meet customer technical and business goals.  
@@ -90,11 +92,12 @@ _Apr 2018 – Jan 2022_
 - **Delivered ADAS features 10% under budget**, supporting OEMs in China and North America.  
 - **Resolved 95% of escalations within 48 hours**, mitigating critical risks.  
 - **Enhanced stakeholder communication by 25%** through KPI dashboards.  
+
 **Business Outcomes**  
 - Secured long-term contracts with 2 major Chinese OEMs, contributing to $8M in annual revenue.  
 - Improved customer satisfaction by 30% through proactive risk management and transparent reporting.  
 
-**Platform System Architect, Valeo Vision Systems, Ireland**  
+**Platform System Architect, Valeo Vision Systems, Ireland (www.valeo.com)**  
 _Dec 2013 – Apr 2018_  
 **Key Responsibilities**  
 - Designed vision and fusion platforms for MY19-21 OEM programs, including surround view systems, supporting sales teams in RFQ responses.  
